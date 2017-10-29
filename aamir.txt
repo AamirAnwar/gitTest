@@ -1,0 +1,2 @@
+This is a text file. It belongs to Aamir Anwar
+You should not open this file if you're someone else
